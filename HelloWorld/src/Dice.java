@@ -37,3 +37,4 @@ public class Dice {
 		return this.number;
 	}
 }
+// Good job
